@@ -18,7 +18,7 @@ let quotelist = [
   {
     q: "Mara Khaoya jkhn nischit tkhn mara ta ke enjoy korai sreyo",
     author: "Hritro",
-    img :'./20200204_134511.jpg'
+    img :'20200204_134511.jpg'
   },
 ];
 let qlen = quotelist.length;
